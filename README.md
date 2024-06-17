@@ -4,7 +4,6 @@
 I'm a french fullstack web developer based in Paris
 
 - 🎓 Computer Engineering graduate
-- 💼 Currently seeking new opportunities in web development
 - 🌱 Passionate about learning new technologies and improving existing skills
 
 ## Contact
