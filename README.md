@@ -1,7 +1,7 @@
 # Hi, I'm Nathan Oliveira da Silva 👋
 
 ## About Me
-I'm a french fullstack web developer based in Paris
+I'm a french fullstack web developer based near Paris, currently looking for a new job as we developer
 
 - 🎓 Computer Engineering graduate
 - 🌱 Passionate about learning new technologies and improving existing skills
